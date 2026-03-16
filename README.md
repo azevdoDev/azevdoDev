@@ -1,5 +1,9 @@
 # 💫 About Me:
-Junior Software Developer<br><br>
+# Hi, I'm Matheus Azevedo 👋
+
+React Native Developer focused on building modern mobile apps with **TypeScript**, clean UI, and great user experience.
+
+I’m passionate about mobile product development, fast learning, and turning ideas into real applications.
 
 
 ## 🌐 Socials:
